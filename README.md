@@ -4,15 +4,18 @@
 复现论文中图4、图5、图12，包含完整代码、原始数据、结果与研究内容解读。
 
 ## 仓库内容
-@LiBoFei1129 李愽菲 2025303110067
+
+-@LiBoFei1129 李愽菲 2025303110067
 - `growth_curve_plot.R`：完整代码
 - `TP17_growth_curve.png`：复现结果
 - `TP17_strain_data（4）.xlsx`:原始数据
-@cyz20030901
+
+-@cyz20030901
 - `TP17_phylogenetic_tree.R`：完整代码
 - `TP17系统发育树_文字紧贴版.png`：复现结果
 - `TP17_strain_data.XLSX`:原始数据
-@tang7928   
+
+-@tang7928   
 - `Effect of five cycles of MPS-T in the soil on the transformation of Cd forms.R`：完整代码
 - `Effect of five cycles of MPS-T in the soil on the transformation of Cd forms.png`：复现结果
 - `Effect of five cycles of MPS-T in the soil on the transformation of Cd forms.xlsx`:原始数据
